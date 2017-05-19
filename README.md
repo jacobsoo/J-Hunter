@@ -8,4 +8,4 @@ This is just a page to track the malicious malware.
 - [Android Malware](Android)
 
 **Docs**
-- [Docs/PDF](Docs)
+- [Malicious Docs/PDF](Docs)
