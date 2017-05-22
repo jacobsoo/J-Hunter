@@ -2,9 +2,10 @@
 
 I'm just trying to update the information here with whatever i analysed during my free time.
 
-|     Date     |      URL     |  IP Address  |    Family    |      VT      |    Koodous   |  Screenshot  |
+|     Date     |      URL/C&C     |  IP Address  |    Family    |      VT      |    Koodous   |  Screenshot  |
 | :---         | :---         | :---         | :---         | :---         | :---         | :---         |
 | 22nd May 2017 | hxxp://95.183.13.21/?cont=kliets&page=1 | 95.183.13.21 | BankBot | [link](https://virustotal.com/en/file/e5399f807e500bcb756646e19f8c1957d715273e7f39ece5a7c7b053122407d6/analysis/)   | [link](https://koodous.com/apks/e5399f807e500bcb756646e19f8c1957d715273e7f39ece5a7c7b053122407d6) | [link](img/95.183.13.21.0x0001.png) |
+| 21st May 2017 | hxxp://45.63.95.198:10086 | 45.63.95.198 | Sandrorat | [link](https://virustotal.com/en/file/836e5272bf1438cba238a747f27c11290da3f1d6569b7911ae8f89f32a46532f/analysis/)   | [link](https://koodous.com/apks/836e5272bf1438cba238a747f27c11290da3f1d6569b7911ae8f89f32a46532f) | - |
 | 19th May 2017 | hxxps://zorg-apolo.000webhostapp.com/?cont=kliets&page=1 | - | BankBot | [link](https://virustotal.com/en/file/070835ef995dee9111afecfe1234db05f42ec234a7fba1660ea20ea5019b8428/analysis/)   | [link](https://koodous.com/apks/070835ef995dee9111afecfe1234db05f42ec234a7fba1660ea20ea5019b8428) | [link](img/zorg-apolo.000webhostapp.com.0x0001.png) |
 | 18th May 2017 | hxxp://adm.sesok.ru/?cont=kliets&page=1 | 81.177.139.164 | BankBot | [link](https://virustotal.com/en/file/636c89800deaa6d20892a6815b42e453096c4183def32d0ca2f9ab8af1fdfc33/analysis/)   | [link](https://koodous.com/apks/636c89800deaa6d20892a6815b42e453096c4183def32d0ca2f9ab8af1fdfc33) | [link](img/adm.sesok.ru.0x0002.png) |
 | 18th May 2017 | hxxp://adm.sesok.ru/?cont=kliets&page=1 | 81.177.139.164 | BankBot | [link](https://virustotal.com/en/file/31b8f5f8c32138af58f6db551bda99fe96054cfe9084b80265b7d7b9bc13d649/analysis/)   | - | [link](img/adm.sesok.ru.png) |
