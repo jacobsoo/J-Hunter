@@ -5,6 +5,7 @@ None of the credentials if there are any, will be documented here.
 
 |     Date     |      VT     |    Family    | Email Address | Secondary Email | Skype |  Google+ | Facebook | FTP Server | C&C |
 | :---         | :---          | :---         | :---         | :---         | :---         | :---         | :---         | :---         | :---         |
+| 22nd May 2017 | [link](https://virustotal.com/en/file/880db96e9eb9311dd3ef1ea1c21c83f197c8a06e0dacaaa14e28b46c1fae58c0/analysis/) | Predator (Variant) | logs@sfspore-sg[.]com | breezybrown15@gmail[.]com | dozybrown | [link](https://plus.google.com/105029184782004392537) | - | - | - |
 | 22nd May 2017 | [link](https://virustotal.com/en/file/b39782b6e2a957cfcf4afd39006b178c41cb9d7d73ceab19d7d4b2c7bb6cb301/analysis/) | Predator (Variant) | martyfly14@mail[.]com | - | - | - | - | - | - |
 | 22nd May 2017 | [link](https://virustotal.com/en/file/87a48cc981f78bafe19b49f3b810f2c8d517f3bfd022521c24bed9a9c30edfda/analysis/) | HawkEye Keylogger | securefast86@gmail[.]com | - | - | [link](https://plus.google.com/113576340514180937825) | - | - | - |
 | 22nd May 2017 | [link](https://virustotal.com/en/file/edd652f8710e454fc89323dd9c6edbad552922d91f678063fbd017a515ae4c06/analysis/) | HawkEye Keylogger | triple@onlinekrisinnovation[.]website | - | - | - | - | - | - |
@@ -21,7 +22,8 @@ None of the credentials if there are any, will be documented here.
 | 18th May 2017 | [link](https://virustotal.com/en/file/a81d0186d1a59e6454d00952c8b66d18369a2874a65f5c3bffe7f21c3d906620/analysis/) | Predator (Variant) | Ozilobi@yandex[.]com | - | - | - | - | - | - |
 | 18th May 2017 | [link](https://virustotal.com/en/file/c7e7171bf77fb42666c61ad5c8d2f6a19e576a40141d94224603a27474392740/analysis/) | HawkEye Keylogger | brz8games123@gmail[.]com | - | live:brz8games123_1 | [link](https://plus.google.com/106929799620793647496) | - | - | - |
 | 18th May 2017 | [link](https://virustotal.com/en/file/3ee26962897b8c9c331ce985a549129d757b72cac98fe28ddb7f71b7b56e8ea8/analysis/) | Predator Keylogger | livelog@zoho[.]com | - | - | - | - | - | - |
-| 16th May 2017 | [link](https://virustotal.com/en/file/51dad86a6951e045b3c4544b97470bfc68503c34e0e6fcffce1c23f23fbbf506/analysis/) | HawkEye Keylogger | billion.logs@bengroupco[.]pw | - | - | - | - | - | - |
+| 16th May 2017 | [link](https://virustotal.com/en/file/51dad86a6951e045b3c4544b97470bfc68503c34e0e6fcffce1c23f23fbbf506/analysis/) | Predator Keylogger | billion.logs@bengroupco[.]pw | - | - | - | - | - | - |
+| 16th May 2017 | [link](https://virustotal.com/en/file/caa020f7d5d8799a7d60c8cf416567b8f50a303529b69914649348db9804e9f0/analysis/) | Predator Keylogger | browndev123@yahoo[.]com | - | - | - | - | - | - |
 | 16th May 2017 | [link](https://virustotal.com/en/file/2c4402f9a0bcc63e0a9f8c11f54440669286c93fe967df03bfb9f23933b51140/analysis/) | Predator (Variant) | kairun10@mail[.]ru | - | - | - | - | - | - |
 | 16th May 2017 | [link](https://virustotal.com/en/file/c1ce26c2d09fa63b7bb0cacf558627526998a6f8df0ce059ac73427d4ddca5dd/analysis/) | Predator Keylogger | personal.log@zoho[.]com | - | - | - | - | - | - |
 | 15th May 2017 | [link](https://virustotal.com/en/file/bb29e773445e4faf4bbddda57cef30987fb6b4c0c7b509bdbb3edfdcb8b63cab/analysis/) | HawkEye Keylogger | goodlife22@zoho[.]com | - | - | - | - | - | - |
