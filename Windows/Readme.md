@@ -5,6 +5,9 @@ None of the credentials if there are any, will be documented here.
 
 |     Date     |      VT     |    Family    | Email Address | Secondary Email | Skype |  Google+ | Facebook | FTP Server | C&C |
 | :---         | :---          | :---         | :---         | :---         | :---         | :---         | :---         | :---         | :---         |
+| 22nd May 2017 | [link](https://virustotal.com/en/file/b39782b6e2a957cfcf4afd39006b178c41cb9d7d73ceab19d7d4b2c7bb6cb301/analysis/) | Predator (Variant) | martyfly14@mail[.]com | - | - | - | - | - | - |
+| 22nd May 2017 | [link](https://virustotal.com/en/file/87a48cc981f78bafe19b49f3b810f2c8d517f3bfd022521c24bed9a9c30edfda/analysis/) | HawkEye Keylogger | securefast86@gmail[.]com | - | - | [link](https://plus.google.com/113576340514180937825) | - | - | - |
+| 22nd May 2017 | [link](https://virustotal.com/en/file/edd652f8710e454fc89323dd9c6edbad552922d91f678063fbd017a515ae4c06/analysis/) | HawkEye Keylogger | triple@onlinekrisinnovation[.]website | - | - | - | - | - | - |
 | 19th May 2017 | [link](https://virustotal.com/en/file/e45e4748092a6aa24a4067f9aa1bb0e158996fc7b5ee2a2b907cad97c324f1f2/analysis/) | Predator Keylogger | bluelifetime@mail[.]com | - | - | - | - | - | - |
 | 19th May 2017 | [link](https://virustotal.com/en/file/ecd63b7cfa6b4d45bda4a5195da27ab9775a59840946f9d8985272d816129e97/analysis/) | Predator Keylogger | bluelifetime@mail[.]com | - | - | - | - | - | - |
 | 18th May 2017 | [link](https://virustotal.com/en/file/7ca25f8240b76c13c8ec1eabb6703f2857d88b614cd9fefbfd03ee4307d95e0f/analysis/) | Predator Keylogger | pointfirms4@mail[.]com | - | - | - | - | - | - |
