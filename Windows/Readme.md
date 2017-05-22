@@ -1,23 +1,7 @@
-# Windows : Windows Malware Tracker
+# J-Hunter - Windows Malware
+This is just a page to track the malicious Windows Malware that i've analysed during my free time.
 
-I'm just trying to update the information here with whatever i analysed during my free time.
-None of the credentials if there are any, will be documented here.
-
-|     Date     |      VT     |    Family    | Email Address | Secondary Email | Skype |  Google+ | Facebook | FTP Server | C&C |
-| :---         | :---          | :---         | :---         | :---         | :---         | :---         | :---         | :---         | :---         |
-| 22nd May 2017 | [link](https://virustotal.com/en/file/b39782b6e2a957cfcf4afd39006b178c41cb9d7d73ceab19d7d4b2c7bb6cb301/analysis/) | Predator (Variant) | martyfly14@mail[.]com | - | - | - | - | - | - |
-| 22nd May 2017 | [link](https://virustotal.com/en/file/87a48cc981f78bafe19b49f3b810f2c8d517f3bfd022521c24bed9a9c30edfda/analysis/) | HawkEye Keylogger | securefast86@gmail[.]com | - | - | [link](https://plus.google.com/113576340514180937825) | - | - | - |
-| 22nd May 2017 | [link](https://virustotal.com/en/file/edd652f8710e454fc89323dd9c6edbad552922d91f678063fbd017a515ae4c06/analysis/) | HawkEye Keylogger | triple@onlinekrisinnovation[.]website | - | - | - | - | - | - |
-| 21st May 2017 | [link](https://virustotal.com/en/file/26aa84a859aa0e89971a75b2fff2f9543a43ec3d6a31ba5116e9e9bdd3584ace/analysis/) | ReVaLaTioN Keylogger | zirotemas1@gmail[.]com | - | - | [link](https://plus.google.com/116048014707032948817) | - | - | - |
-| 21st May 2017 | [link](https://virustotal.com/en/file/9868aabefc41b6b36b1e2d170864ecf13de958950a1cf4cf99679d71530722e6/analysis/) | ReVaLaTioN Keylogger | zirotemas1@gmail[.]com | - | - | [link](https://plus.google.com/116048014707032948817) | - | - | - |
-| 19th May 2017 | [link](https://virustotal.com/en/file/e45e4748092a6aa24a4067f9aa1bb0e158996fc7b5ee2a2b907cad97c324f1f2/analysis/) | Predator Keylogger | bluelifetime@mail[.]com | - | - | - | - | - | - |
-| 19th May 2017 | [link](https://virustotal.com/en/file/ecd63b7cfa6b4d45bda4a5195da27ab9775a59840946f9d8985272d816129e97/analysis/) | Predator Keylogger | bluelifetime@mail[.]com | - | - | - | - | - | - |
-| 18th May 2017 | [link](https://virustotal.com/en/file/7ca25f8240b76c13c8ec1eabb6703f2857d88b614cd9fefbfd03ee4307d95e0f/analysis/) | Predator Keylogger | pointfirms4@mail[.]com | - | - | - | - | - | - |
-| 18th May 2017 | [link](https://virustotal.com/en/file/a81d0186d1a59e6454d00952c8b66d18369a2874a65f5c3bffe7f21c3d906620/analysis/) | Predator (Variant) | Ozilobi@yandex[.]com | - | - | - | - | - | - |
-| 18th May 2017 | [link](https://virustotal.com/en/file/c7e7171bf77fb42666c61ad5c8d2f6a19e576a40141d94224603a27474392740/analysis/) | HawkEye Keylogger | brz8games123@gmail[.]com | - | live:brz8games123_1 | [link](https://plus.google.com/106929799620793647496) | - | - | - |
-| 18th May 2017 | [link](https://virustotal.com/en/file/3ee26962897b8c9c331ce985a549129d757b72cac98fe28ddb7f71b7b56e8ea8/analysis/) | Predator Keylogger | livelog@zoho[.]com | - | - | - | - | - | - |
-| 13th May 2017 | [link](https://virustotal.com/en/file/2f940bc2b04789102aab15c5ebb96be9b4a6687732b2f6c751b22341a52d9f7f/analysis/) | HawkEye Keylogger | brianalexander048@gmail[.]com | - | - | [link](https://plus.google.com/111762948974676096842) | - | - | - |
-| 06th May 2017 | [link](https://virustotal.com/en/file/4b5e0b900276300c0f98443353ddef641856664f10d10ad62ac6d6b4520de51f/analysis/) | - | - | - | - | - | - | rzjanin@ftp://rzjanin[.]zapto[.]org | - |
-| 24th April 2017 | [link](https://virustotal.com/en/file/1b84e9d1bd83906e4da8ca0e457c8e2d772f3451b56c4494a9bb2b483724a994/analysis/) | HawkEye Keylogger | israelisoldier22@gmail[.]com | - | - | [link](https://plus.google.com/101223414142370018450) | - | - | - |
-| 31st March 2017 | [link](https://virustotal.com/en/file/25b9cbb015cdf069d03e31e6aa1d3652cfbd153761a81c2601488336e4597a6b/analysis/) | ReVaLaTioN Keylogger | mehmetgozum99@hotmail[.]com | - | - | - | - | - | - |
-| 11th March 2017 | [link](https://virustotal.com/en/file/302ca3f700a04ba65817ceba9cf73554b01b53e1359fbad2817ee4fd45b6b5af/analysis/) | Predator (Variant) | vygantas.stasiunase@gmail[.]com | - | - | [link](https://plus.google.com/100722105998417635297) | - | - | - |
+**2017**
+- [May 2017](May.2017.md)
+- [April 2017](April.2017.md)
+- [March 2017](March.2017.md)
