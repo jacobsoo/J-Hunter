@@ -4,6 +4,7 @@ I'm just trying to update the information here with whatever i analysed during m
 
 |     Date     |      URL/C&C     |  IP Address  |    Family    |      VT      |    Koodous   |  Screenshot  |
 | :---         | :---         | :---         | :---         | :---         | :---         | :---         |
+| 26th May 2017 | hxxp://firta.myjino.ru | - | BankBot | [link](https://virustotal.com/en/file/51d77da77a11e62d55b94eecedf594d63585a2b9b5c4439b51c9bfd154a07ae4/analysis/)   | - | [link](img/firta.myjino.ru.png) |
 | 26th May 2017 | hxxp://a0138037.xsph.ru | - | BankBot | [link](https://virustotal.com/en/file/236d684679f59bfc77cb7c493b1b513e24b5dd57eda61a14d44e744ac0647334/analysis/)   | [link](https://koodous.com/apks/236d684679f59bfc77cb7c493b1b513e24b5dd57eda61a14d44e744ac0647334) | [link](img/a0138037.xsph.ru.png) |
 | 25th May 2017 | hxxp://firta.myjino.ru | - | BankBot | [link](https://virustotal.com/en/file/40e75bb47722061618ea0ac662c815ee7786424cd89f06fcc6dab8f1ebb57dec/analysis/)   | [link](https://koodous.com/apks/40e75bb47722061618ea0ac662c815ee7786424cd89f06fcc6dab8f1ebb57dec) | [link](img/firta.myjino.ru.png) |
 | 23rd May 2017 | hxxp://legamer.ru/rg/ | 195.69.187.71 | BankBot | [link](https://virustotal.com/en/file/24b05a156442f6b3892be26c6c810c45ba10b2ab6ddd418b9d88759451e28850/analysis/)   | [link](https://koodous.com/apks/24b05a156442f6b3892be26c6c810c45ba10b2ab6ddd418b9d88759451e28850) | [link](img/legamer.ru.png) |
